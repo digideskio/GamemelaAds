@@ -1,4 +1,4 @@
-# Gamemela SDK
+# Gamemela Ads
 _Copyright (c) 2016 Funizen Inc. All rights reserved._
 
 The GAMEMELA Ads is ...
