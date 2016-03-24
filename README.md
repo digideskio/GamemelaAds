@@ -70,4 +70,4 @@ Usage
 ### ShowRewardedVideo
 		ads.ShowRewardedVideo();
 
-[1]: https://github.com/gamemela/gamemelaads/archive/latest.zip "latest version of GAMEMELA-Ads"
+[1]: https://github.com/gamemela/GamemelaAds/blob/stable/distribution/GamemelaAds.unitypackage "stable version of GAMEMELA-Ads"
