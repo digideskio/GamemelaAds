@@ -57,7 +57,7 @@ Usage
 ### Initialize
 		Ads ads = Xxx.instance;
 		
-		// Xxx : AdsUnity, AdsGoogle, AdsInMobi
+		// Xxx have to replace with <AdsUnity, AdsGoogle, AdsInMobi>
 
 ### ShowBanner
     ads.ShowBanner();
