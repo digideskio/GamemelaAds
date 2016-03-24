@@ -31,7 +31,7 @@ introduce GAMEMELA Ads
 -----------------------
 
 1. Download the package from [GAMEMELA Ads download site][1]
-2. Export to your Unity project.
+2. Import to your Unity project.
 
 Usage
 -----------------------
