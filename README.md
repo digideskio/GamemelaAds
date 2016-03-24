@@ -39,21 +39,20 @@ Usage
 	using GamemelaAds.Unity;
 
 ### Settings
-    // Unity
-		Settings.unity.androidGameId = "xxxxxxx";
-		Settings.unity.androidInterstitialPlacementId = "xxxxxxxx";
-		Settings.unity.androidRewardedPlacementId = "xxxxxxxx";
+		// Unity
+		Settings.instance.unity.androidGameId = "xxxxxxx";
+		Settings.instance.unity.androidInterstitialPlacementId = "xxxxxxxx";
+		Settings.instance.unity.androidRewardedPlacementId = "xxxxxxxx";
 
-    // InMobi
-    Settings.inMobi.accountId = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
-		Settings.inMobi.bannerPlacementId = 000000000000;
-		Settings.inMobi.interstitialPlacementId = 00000000000;
-		
-    // Google
-		Settings.google.adUnitIdBanner = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";
-		Settings.google.adUnitIdInterstitial = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";
-		Settings.google.adUnitIdReward = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";    
+		// InMobi
+		Settings.instance.inMobi.accountId = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+		Settings.instance.inMobi.bannerPlacementId = 000000000000;
+		Settings.instance.inMobi.interstitialPlacementId = 00000000000;
 
+		// Google
+		Settings.instance.google.adUnitIdBanner = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";
+		Settings.instance.google.adUnitIdInterstitial = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";
+		Settings.instance.google.adUnitIdReward = "ca-app-pub-xxxxxxxxxxxxx/xxxxxxxxxxxx";
 ### Initialize
 		Ads ads = Xxx.instance;
 		
