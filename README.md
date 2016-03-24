@@ -60,15 +60,15 @@ Usage
 		// Xxx have to replace with <AdsUnity, AdsGoogle, AdsInMobi>
 
 ### ShowBanner
-    ads.ShowBanner();
+		ads.ShowBanner();
 
 ### DestroyBanner
-    ads.DestroyBanner();
+		ads.DestroyBanner();
 
 ### ShowInterstitial
-    ads.ShowInterstitial();
+		ads.ShowInterstitial();
 
 ### ShowRewardedVideo
-    ads.ShowRewardedVideo();
+		ads.ShowRewardedVideo();
 
 [1]: https://github.com/gamemela/gamemelaads/archive/latest.zip "latest version of GAMEMELA-Ads"
