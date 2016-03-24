@@ -30,7 +30,7 @@ GAMEMELA Ads SDK
 introduce GAMEMELA Ads
 -----------------------
 
-1. Download the package from [GAMEMELA Ads stable][1]
+1. Download the package from [GAMEMELA Ads download site][1]
 2. Import to your Unity project.
 
 Usage
@@ -70,4 +70,4 @@ Usage
 ### ShowRewardedVideo
 		ads.ShowRewardedVideo();
 
-[1]: https://github.com/gamemela/GamemelaAds/blob/stable/distribution/GamemelaAds.unitypackage "stable version of GAMEMELA-Ads"
+[1]: https://github.com/gamemela/GamemelaAds/blob/stable/distribution/GamemelaAds.unitypackage?raw=true "stable version of GAMEMELA-Ads"
