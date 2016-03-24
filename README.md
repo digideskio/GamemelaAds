@@ -30,7 +30,7 @@ GAMEMELA Ads SDK
 introduce GAMEMELA Ads
 -----------------------
 
-1. Download the package from [GAMEMELA Ads download site][1]
+1. Download the package from [GAMEMELA Ads stable][1]
 2. Import to your Unity project.
 
 Usage
